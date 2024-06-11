@@ -27,6 +27,10 @@ Description
 
 ** Implemented the SQL filtering techniques learnt from Week 11 e.g WHERE, DISTINCT e.t.c
 
+### Week 1 Update
+
+** Further understood the SQL Grouping sets and clauses by writing sql queries with GROUP BY as well as the COUNT() function
+
 ## License
 
 This repository is licensed under the CC0 1.0 License. See the [LICENSE](LICENSE) file for more information.
