@@ -27,9 +27,13 @@ Description
 
 ** Implemented the SQL filtering techniques learnt from Week 11 e.g WHERE, DISTINCT e.t.c
 
-### Week 1 Update
+### Week 12 Update
 
 ** Further understood the SQL Grouping sets and clauses by writing sql queries with GROUP BY as well as the COUNT() function
+
+### Week 13 Update
+
+** In Week 13 we learnt about SQL Conditional Expressions. I was able to implement differnt functions such as CASE expression and the IF function. The Null operation/function was a bit challenging but with practice am sure I'll get a hang of it.
 
 ## License
 
