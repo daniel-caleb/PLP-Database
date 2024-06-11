@@ -19,7 +19,13 @@ Duration,
 Listing,
 Description
 
+### Week 10 Update
+
 ** Also implemented the SQL Select command to retrive information from the database.
+
+### Week 11 Update
+
+** Implemented the SQL filtering techniques learnt from Week 11 e.g WHERE, DISTINCT e.t.c
 
 ## License
 
