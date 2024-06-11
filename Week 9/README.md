@@ -19,6 +19,8 @@ Duration,
 Listing,
 Description
 
+** Also implemented the SQL Select command to retrive information from the database.
+
 ## License
 
 This repository is licensed under the CC0 1.0 License. See the [LICENSE](LICENSE) file for more information.
